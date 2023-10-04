@@ -1,0 +1,25 @@
+.exo-1 {
+    border: 2px dashed black;
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
+
+.elipse {
+    background-color: red;
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+.black {
+    background-color: black;
+    color: white;
+}
+
+.solide {
+    border: 4px solid black;
+}
